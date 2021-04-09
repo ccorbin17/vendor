@@ -18,6 +18,9 @@ yarn start
 ```
 
 ## Troubleshooting Tips
+If yarn start doesn't work:
+- Type yarn into conda.  This will kickstart yarn to finish installation. It take a couple mins for it to install.
+
 If your updates are not showing up:
 1) Check to make sure that you are using a browser that supports React. Internet Explorer is a toss up, try to use Chrome or Firefox.
 2) Refresh the page manually.  While the page will usually update on its own, a hard refresh can help to show updates quickly.
