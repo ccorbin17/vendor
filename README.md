@@ -12,7 +12,7 @@ conda install -c conda-forge nodejs
 conda install -c conda-forge yarn
 
 ```
-You can use run to view the latest version of the inventory table.  It will open in localhost:3000/.  
+You can use run to view the latest version of the inventory table. Enter the directory inventory-table and run the command below. It will open in http://localhost:3000/.  
 ```bash
 yarn start
 ```
